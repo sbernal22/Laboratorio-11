@@ -4,6 +4,6 @@ for(let i=1; i<=numero; i++){
     if(i%5==0){
         continue;
     }
-    suma+=numero;
+    suma+=i;
 }
 console.log(suma);
